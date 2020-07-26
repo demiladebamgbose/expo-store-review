@@ -29,7 +29,7 @@
   "author": "650 Industries, Inc.",
   "license": "MIT",
   "homepage": "https://docs.expo.io/versions/latest/sdk/store-review/",
-  "peerDependencies": {
+  "dependencies": {
     "@unimodules/core": "*",
     "expo-constants": "~9.0.0",
     "expo-linking": "~1.0.1",
@@ -37,6 +37,6 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "expo-module-scripts": "~1.2.0",
+    "expo-module-scripts": "~1.2.0"
   }
 }
